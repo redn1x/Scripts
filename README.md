@@ -10,7 +10,7 @@
 
 # Bash Scripts 
 
-| Command | Description |
+| Filename | Purpose |
 | --- | --- |
 | build.sh | check official build query if not used and delete |
 | start_suspend_instance.sh | aws starting creating image and stopping instances |
